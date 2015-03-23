@@ -1,0 +1,58 @@
+PODS:
+  - AFNetworking (2.5.1):
+    - AFNetworking/NSURLConnection (= 2.5.1)
+    - AFNetworking/NSURLSession (= 2.5.1)
+    - AFNetworking/Reachability (= 2.5.1)
+    - AFNetworking/Security (= 2.5.1)
+    - AFNetworking/Serialization (= 2.5.1)
+    - AFNetworking/UIKit (= 2.5.1)
+  - AFNetworking/NSURLConnection (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.1)
+  - AFNetworking/Security (2.5.1)
+  - AFNetworking/Serialization (2.5.1)
+  - AFNetworking/UIKit (2.5.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - EGOCache (2.1.1)
+  - EGOImageLoading (0.0.1):
+    - EGOCache
+  - HockeySDK (3.6.2)
+  - JTCalendar (1.2.1)
+  - KAProgressLabel (1.2)
+  - Lockbox (2.1.0)
+  - M13Checkbox (1.1.2)
+  - MBProgressHUD (0.9.1)
+  - ZFHaversine (0.3)
+
+DEPENDENCIES:
+  - AFNetworking
+  - EGOCache (~> 2.1)
+  - EGOImageLoading (~> 0.0)
+  - HockeySDK (~> 3.6.2)
+  - JTCalendar (~> 1.1)
+  - KAProgressLabel (~> 1.2)
+  - Lockbox (~> 2.1)
+  - M13Checkbox (~> 1.1)
+  - MBProgressHUD (~> 0.9)
+  - ZFHaversine (~> 0.3)
+
+SPEC CHECKSUMS:
+  AFNetworking: 8bee59492a6ff15d69130efa4d0dc67e0094a52a
+  EGOCache: e64216c34e0e1c6dd093a0fdb3e366b156685e80
+  EGOImageLoading: 8d33c6c4b5bc5651236bbcbc46e8a31a6715cd61
+  HockeySDK: bfd1f5ac75938b07499c4ac12932244b72a2e70b
+  JTCalendar: e382bbf6a8d99d3e8c3d8744091664f083831cc2
+  KAProgressLabel: 49d9a4b954976e56bab6179436e11b9cbf5ad384
+  Lockbox: 3168f08cb26680b05a0702b8c0cc6da32788059d
+  M13Checkbox: e87ebe28627368b1c6d2233282d711a3854dfe3f
+  MBProgressHUD: f3747dcbd45a9e855a6b0674550651e0b7ed250c
+  ZFHaversine: 3fad6ae2af1e816eb22b2636dd60394c6e4999e6
+
+COCOAPODS: 0.35.0
