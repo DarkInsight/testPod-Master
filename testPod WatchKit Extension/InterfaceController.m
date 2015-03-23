@@ -27,6 +27,8 @@
     [super willActivate];
     
     [self testWS];
+    
+    NSLog(@"make some change");
 }
 
 - (void)didDeactivate {

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>50BC7227-543F-4BF0-97D4-0561EDB6EFF2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testPod</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7D55876FF8B4112B6253D81305CBAC5F006BA57E</key>
+		<string>https://github.com/DarkInsight/testPod-Master.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testPod.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7D55876FF8B4112B6253D81305CBAC5F006BA57E</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DarkInsight/testPod-Master.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7D55876FF8B4112B6253D81305CBAC5F006BA57E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7D55876FF8B4112B6253D81305CBAC5F006BA57E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testPod-Master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
